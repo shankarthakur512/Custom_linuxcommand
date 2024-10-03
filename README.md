@@ -19,7 +19,8 @@ To install **sysopctl**, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/sysopctl.git
+   git clone https://github.com/shankarthakur512/Custom_linuxcommand
+
    ```
 
    Replace `<your-username>` with your GitHub username.
