@@ -167,7 +167,7 @@ Execute the **sysopctl** command followed by the desired command and options:
 
 ### Listing Active Services
 
-![Active Services](./WhatsApp%20Image%202024-10-03%20at%2019.23.01.jpeg)
+![Active Services((https://github.com/shankarthakur512/Custom_linuxcommand/blob/main/screen_shot1.jpeg?raw=true))
 
 ### System Load and Disk Usage
 
