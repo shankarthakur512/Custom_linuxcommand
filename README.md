@@ -167,7 +167,8 @@ Execute the **sysopctl** command followed by the desired command and options:
 
 ### Listing Active Services
 
-![Active Services((https://github.com/shankarthakur512/Custom_linuxcommand/blob/main/screen_shot1.jpeg?raw=true))
+![Active Services](https://github.com/shankarthakur512/Custom_linuxcommand/blob/main/screen_shot1.jpeg?raw=true)
+
 
 ### System Load and Disk Usage
 
